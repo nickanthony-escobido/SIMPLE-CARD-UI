@@ -1,0 +1,125 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* width: 1440px; */
+}
+
+html {
+    box-sizing: border-box;
+    max-height: 100vh;
+}
+body {
+    position: relative;
+    background-image: url(/images/Machine-Learning-AI-Concept.gif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 14px;
+}
+.box {
+    position: relative;
+    width: 300px;
+    height: 550px;
+    background-image: url(/images/EllipticalCostlyChrysomelid-size_restricted.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 35px auto;
+    border-radius: 15px;
+    padding: 25px;
+    box-shadow: 0px 0px 15px white ;
+}
+
+.main__pic {
+    display: inline;}
+
+.main__pic img {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.sec__2 {
+    font-family: 'Outfit', sans-serif;
+}
+.nft_equi {
+    padding-top: 25px;
+    font-size: 22px;
+    margin-bottom: 15px;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.equi_description {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 18px;
+    font-weight: 300;
+    margin-bottom: 15px;
+    color: hsl(215, 51%, 70%);
+}
+.left {
+    padding-bottom: 25px;
+    font-family: 'Outfit';
+    vertical-align: middle;
+}
+
+.right {
+    padding-bottom: 25px;
+    font-family: 'Outfit';
+    vertical-align: middle;
+    float: right;
+}
+.eth_price {
+    display: inline-block;
+    margin-right: 105px;
+    color: hsl(178, 100%, 50%);
+    font-size: 17px;
+    font-family: 'Outfit';
+    font-weight: 300;
+    vertical-align: middle;
+}
+.countdown {
+    color: hsl(215, 51%, 70%);
+    font-size: 17px;
+    font-family: 'Outfit';
+    font-weight: 300;
+    float: right;
+    vertical-align: middle;
+    
+}
+.icon {  
+    vertical-align: middle;
+    margin-right: 3px;
+
+}
+.icon2 {  
+    vertical-align: middle;
+    margin-right: 3px;
+
+}
+hr {
+    border-color: hsl(215, 32%, 27%);
+}
+.creator {
+    padding-top: 15px;
+    font-family: 'Outfit', sans-serif;
+}
+.creator img {
+    width: 40px;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+.creator p {
+    font-size: 17px;
+    padding-left: 10px;
+    display: inline;
+    padding-bottom: 50px;
+    color: hsl(215, 51%, 70%);
+    vertical-align: middle;
+}
+
+span {
+    color: white;
+}
