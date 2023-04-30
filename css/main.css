@@ -10,7 +10,7 @@ html {
 }
 body {
     position: relative;
-    background-image: url(/images/Machine-Learning-AI-Concept.gif);
+    background-image: url(../images/Machine-Learning-AI-Concept.gif);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -20,7 +20,7 @@ body {
     position: relative;
     width: 300px;
     height: 550px;
-    background-image: url(/images/EllipticalCostlyChrysomelid-size_restricted.gif);
+    background-image: url(../images/EllipticalCostlyChrysomelid-size_restricted.gif);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
